@@ -3,7 +3,7 @@
 #include <painlessMesh.h>
 #include <IRremoteESP8266.h>
 #include <IRrecv.h>
-#define sensoren 12
+#define sensoren D1
 #define NUMLEDS 69
 #define LEDpin 11
 #define meshport 5555
