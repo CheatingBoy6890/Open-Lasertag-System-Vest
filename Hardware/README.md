@@ -3,7 +3,10 @@
 
 Warning: This project uses lasers. Be sure to **always** do your own testing by meassuring voltage and current and by looking in datasheets. I am **not** responsible for any injuries you encounter from using this project. Also make sure to wear proper eye-protection.
 
-----
+---- 
+I recommend wathing a few sewing tutorials if you have never sewed before. Sewing everything by hand is possible but will take ages, so try to get a sewing machine
+
+-----
 
 **The Vest runs using 4 1,2V NiMh batteries! Don't use voltages greater than 5V in order to power the Vest.**
 
