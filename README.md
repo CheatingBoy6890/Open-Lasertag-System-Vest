@@ -50,6 +50,9 @@ This is the repository for the vests of the system. here you'll find all the nec
  - A switch
  - Time
 
+## Connecting the Tagger
+The Tagger can be connected easyly, by shooting at the vest while the display is showing "Connecting vest". When a vest is connectd, you'll see a small icon in the top right of the display.
+
   ## Who are we?
    We are two German students. Since we are twins, we build and programm a lot of projects together. We create all of our projects in our free time. Feel free to mail any questions to cyberfox3801@proton.me .
    We want to motivate people to discover what is possible using 3D printing and microcontrollers. \
